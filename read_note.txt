@@ -1,0 +1,4 @@
+Before run code:
+    pip install pillow
+    pip install colorthief
+    
